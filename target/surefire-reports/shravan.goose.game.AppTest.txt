@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: shravan.goose.game.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.548 s <<< FAILURE! - in shravan.goose.game.AppTest
+shravan.goose.game.AppTest  Time elapsed: 0.546 s  <<< ERROR!
+java.lang.IllegalStateException: Unable to find a @SpringBootConfiguration, you need to use @ContextConfiguration or @SpringBootTest(classes=...) with your test
+
